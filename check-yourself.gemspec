@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'michael.c.scherer@gmail.com'
   s.files       = ["lib/check_yourself.rb"]
   s.homepage    =
-    ''
+    'https://github.com/mscherer11/check-yourself'
   s.license       = 'MIT'
 end
